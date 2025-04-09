@@ -1,0 +1,500 @@
+   42  mkdir LDOS
+   43  ls
+   44  cd LDOS/
+   45  ls
+   46  ls
+   47  git clone https://github.com/ldos-project/ebpf-tutorial.git
+   48  ls
+   49  cd ebpf-tutorial
+   50  ls
+   51  pipenv install && pipenv shell
+   52  apt install pipenv
+   53  apt install pipenv
+   54  yes
+   55  clear
+   56  ls
+   57  pipenv install && pipenv shell
+   58  sudo apt install pipenv
+   59  pip install --user pipenv
+   60  pipenv shell
+   61  pipenv
+   62  export PATH="$HOME/.local/bin:$PATH"
+   63  pipenv
+   64  pipenv --version
+   65  pipenv shell
+   66  pipenv install && pipenv shell
+   67  pip install --user --upgrade virtualenv
+   68  virtualenv --version
+   69  pipenv install && pipenv shell
+   70  python3 --version
+   71  chmod +x bin/se-ref-wk*
+   72  make
+   73  test-hw -h
+   74  test-hw
+   75  make clean
+   76  make
+   77  bin/test-hw
+   78  bin/test-hw -h
+   79  bin/test-hw -v
+   80  bin/test-hw -f cond_holds
+   81  make clean
+   82  make
+   83  make clean
+   84  make
+   85  make clean
+   86  make
+   87  make clean
+   88  make
+   89  make clean
+   90  make
+   91  make clean
+   92  make
+   93  bin/test-hw
+   94  make clean
+   95  make
+   96  bin/test-hw
+   97  make clean
+   98  make
+   99  make clean
+  100  make
+  101  make clean
+  102  make
+  103  bin/test-hw
+  104  make clean
+  105  make
+  106  bin/test-hw
+  107  make clean
+  108  make
+  109  bin/test-hw
+  110  bin/test-hw -v
+  111  bin/test-hw -v1
+  112  gdb bin/test-hw
+  113  make clean
+  114  make
+  115  bin/test-hw -v1
+  116  make clean
+  117  make
+  118  bin/test-hw -v1
+  119  make clean
+  120  make
+  121  bin/test-hw -v1
+  122  make clean
+  123  make
+  124  bin/test-hw -v1
+  125  make clean
+  126  make
+  127  bin/test-hw -v1
+  128  make clean
+  129  make
+  130  bin/test-hw -v1
+  131  make clean
+  132  make
+  133  make clean
+  134  make
+  135  make clean
+  136  make
+  137  bin/test-hw -v1
+  138  make clean
+  139  make
+  140  make clean
+  141  make
+  142  make clean
+  143  make
+  144  bin/test-hw -v1
+  145  make clean'
+  146  make clean
+  147  make
+  148  bin/test-hw -v1
+  149  git add .
+  150  git commit -m "init"
+  151  git push
+  152  clear
+  153  make clean
+  154  make clean
+  155  make
+  156  bin/test-hw -v1
+  157  make clean
+  158  make
+  159  bin/test-hw -v1
+  160  make clean
+  161  make
+  162  bin/test-hw -v1
+  163  make clean
+  164  make
+  165  bin/test-hw -v1
+  166  make clean
+  167  make
+  168  bin/test-hw -v1
+  169  make clean
+  170  bin/test-hw -v1
+  171  make
+  172  bin/test-hw -v1
+  173  make clean
+  174  make
+  175  bin/test-hw -v1
+  176  make clean
+  177  make clean
+  178  make
+  179  bin/test-hw -v1
+  180  make clean
+  181  make
+  182  bin/test-hw -v1
+  183  make clean
+  184  make
+  185  bin/test-hw -v1
+  186  make clean
+  187  make
+  188  bin/test-hw -v1
+  189  make clean
+  190  make
+  191  bin/test-hw -v1
+  192  make clean
+  193  make
+  194  bin/test-hw -v1
+  195  make clean
+  196  make clean
+  197  make
+  198  bin/test-hw -v1
+  199  make clean
+  200  make
+  201  bin/test-hw -v1
+  202  make clean
+  203  make
+  204  bin/test-hw -v1
+  205  make clean
+  206  make
+  207  bin/test-hw -v1
+  208  make clean
+  209  make
+  210  bin/test-hw -v1
+  211  make clean
+  212  make
+  213  bin/test-hw -v1
+  214  make clean
+  215  make
+  216  bin/test-hw -v1
+  217  make clean
+  218  make
+  219  bin/test-hw -v1
+  220  make clean
+  221  make
+  222  bin/test-hw -v1
+  223  bin/test-hw -v1
+  224  bin/test-hw -v0
+  225  bin/test-hw -v2
+  226  make clean
+  227  make
+  228  bin/test-hw -v2
+  229  ls
+  230  ls
+  231  clear
+  232  ls
+  233  clear
+  234  ls
+  235  git clone https://github.com/CS429-SP2025/se-lab-vedant-srishruthik
+  236  ls
+  237  bin/test-hw -v2
+  238  bin/test-hw
+  239  bin/test-hw -v1
+  240  make clean
+  241  make
+  242  bin/test-hw -v2
+  243  bin/test-hw -v1
+  244  make clean
+  245  make
+  246  bin/test-hw -v1
+  247  bin/test-hw -v2
+  248  make clean
+  249  make
+  250  bin/test-hw -v2
+  251  bin/test-hw -v1
+  252  make clean
+  253  make
+  254  bin/test-hw -v1
+  255  bin/test-hw -v2
+  256  bin/test-hw
+  257  git add .
+  258  git commit -m "week1 pass"
+  259  git push
+  260  make clean
+  261  make
+  262  bin/test-hw -h
+  263  bin/test-hw -e
+  264  bin/test-hw -e
+  265  bin/test-hw -e -v2
+  266  make clean
+  267  makje
+  268  make
+  269  bin/test-hw -e -v2
+  270  bin/test-hw
+  271  bin/test-hw -v2
+  272  bin/test-hw -e -v2
+  273  make clean
+  274  make
+  275  bin/test-hw -e -v2
+  276  make clean
+  277  make
+  278  bin/test-hw -e -v2
+  279  make clean
+  280  make
+  281  bin/test-hw -e -v2
+  282  make clean
+  283  bin/test-hw -e -v2
+  284  make clean
+  285  makje
+  286  make
+  287  bin/test-hw -e -v2
+  288  make clean
+  289  make
+  290  bin/test-hw -e -v2
+  291  make clean
+  292  make
+  293  bin/test-hw -v2
+  294  bin/test-hw
+  295  git add .
+  296  git commit -m "formatted code"
+  297  git push
+  298  make clean'
+  299  make clean
+  300  make
+  301  bin/test-hw -v2
+  302  make clean
+  303  make
+  304  bin/test-wk1
+  305  bin/test-w1
+  306  bin/test-se
+  307  b
+  308  git config --list
+  309  git config user.name
+  310  git add .
+  311  git commit -m "fetch v1"
+  312  git push
+  313  pwd
+  314  slsw
+  315  clear
+  316  pwd
+  317  ls
+  318  pwd
+  319  touch ~/.gdbinit
+  320  ls -a
+  321  echo “set history save on” > ~/.gdbinit
+  322  cat ~/.gdbinit
+  323  ls
+  324  mkdir cs429-mastery-practice
+  325  ls
+  326  cd cs429-mastery-practice/
+  327  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  328  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  329  ls
+  330  ls
+  331  ls
+  332  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  333  cd .
+  334  cd ..
+  335  ls
+  336  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  337  ls ~/.ssh
+  338  cat ~/.ssh/id_ed25519.pub
+  339  ssh -T git@github.com
+  340  ssh -T git@github.com
+  341  ls cs429-mastery-practice/
+  342  ls
+  343  cd cs429-mastery-practice/
+  344  ls
+  345  git clone git@github.com:CS429-SP2025/mastery-version-g.git
+  346  ls
+  347  cd ..
+  348  ls
+  349  cd cs429-mastery-practice/
+  350  ls
+  351  git add .
+  352  git commit -m "decode + execute v1"
+  353  git push
+  354  make clean
+  355  make
+  356  bin/test-se -w1
+  357  ls
+  358  pwd
+  359  touch ~/.gdbinit
+  360  ls -a
+  361  echo "set history save on" > ~/.gdbinit
+  362  cat ~/.gdbinit
+  363  ls
+  364  cd cs429-mastery-practice/
+  365  ls
+  366  git clone git@github.com:vedantath/mastery-version-a.git
+  367  ls
+  368  ls
+  369  make
+  370  gdb bin/a.out
+  371  bin/a.out -t testcases/short1.rep 
+  372  ref.out -t <file>
+  373  ref.out -t testcases/short1.rep
+  374  bin/a.out -t testcases/short2.rep 
+  375  gdb bin/a.out
+  376  make clean
+  377  make debug
+  378  gdb a.out
+  379  ]
+  380  make clean
+  381  make debug
+  382  make clean
+  383  make check
+  384  make clean
+  385  make comp
+  386  make clean'
+  387  make clean
+  388  make debug
+  389  gdb .bin/a.out
+  390  gdb bin/a.out
+  391  make clena
+  392  make clean
+  393  make
+  394  make debug
+  395  make clean
+  396  make debug
+  397  gdb bin/a.out 
+  398  make clean
+  399  make comp
+  400  make clean
+  401  make debug
+  402  gdb bin/a.out
+  403  bin/a.out -t testcases/short2.rep 
+  404  q
+  405  make clean
+  406  make debug
+  407  bin/a.out -t testcases/short2.rep 
+  408  gdb bin/a.out
+  409  make clean
+  410  make debug
+  411  bin/a.out -t testcases/short2.rep 
+  412  ref.out -t testcases/short2.rep 
+  413  make clean
+  414  make comp
+  415  make check
+  416  make clean
+  417  make check
+  418  make clean
+  419  make comp
+  420  make clean
+  421  history > shell_log.txt
+  422  gdb
+  423  gdb
+  424  show commands
+  425  gdb
+  426  git status
+  427  cat ~/.gdbinit
+  428  nano ~/.gdbinit
+  429  cat ~/.gdbinit
+  430  echo "set history save on" > ~/.gdbinit
+  431  cat ~/.gdbinit
+  432  make clean
+  433  make debug
+  434  gdb bin/a.out
+  435  gdb
+  436  touch gdb_logs.txt
+  437  git status
+  438  git add .
+  439  git status
+  440  git commit -m "finished"
+  441  git status
+  442  git push
+  443  git push
+  444  cd ..
+  445  ls
+  446  make
+  447  make check
+  448  make debug
+  449  make clean
+  450  make debug
+  451  gdb mini_ci
+  452  make clean
+  453  make debug
+  454  gdb mini_ci
+  455  make clean
+  456  make debug
+  457  gdb mini_ci
+  458  make check
+  459  mini_ci testcases/basic_add.s
+  460  make clean
+  461  make
+  462  mini_ci testcases/basic_add.s
+  463  make clean
+  464  make debug
+  465  gdb mini_ci
+  466  make clean
+  467  make debug
+  468  gdb mini_ci
+  469  mini_ci_reference testcases/err_ops2.s
+  470  mini_ci testcases/err_ops2.s
+  471  make check
+  472  make clean
+  473  make check
+  474  make clean
+  475  make debug
+  476  make clean
+  477  make tests
+  478  make clean
+  479  make check
+  480  make clean
+  481  history > shell_log.txt
+  482  gdb
+  483  touch gdb_logs.txt
+  484  git status
+  485  git add .
+  486  git status
+  487  git commit -m "finished"
+  488  git status
+  489  git push
+  490  cd ..
+  491  pwd
+  492  touch ~/.gdbinit
+  493  ls -a
+  494  echo "set history save on" > ~/.gdbinit
+  495  cat ~/.gdbinit
+  496  ls
+  497  cd cs429-mastery-practice/
+  498  ls
+  499  git clone git@github.com:vedantath/mastery-version-c.git
+  500  ls
+  501  make check
+  502  mini_ci testcases/basic_add.s 
+  503  make debug
+  504  make clean
+  505  make debug
+  506  gdb mini_ci
+  507  make clean
+  508  make check
+  509  make debug
+  510  gdb mini_ci
+  511  make clean
+  512  make clean
+  513  make debug
+  514  gdb mini_ci
+  515  make clean
+  516  make check
+  517  make clean
+  518  make debug
+  519  gdb mini_ci
+  520  make clean
+  521  make check
+  522  mini_ci testcases/basic_add.s
+  523  mini_ci_reference testcases/basic_add.s
+  524  make clean
+  525  make debug
+  526  make clean
+  527  make clean
+  528  make debug
+  529  gdb mini_ci
+  530  make clean
+  531  make check
+  532  make clean
+  533  make check
+  534  valgrind --leak-check=full          --show-leak-kinds=all          --track-origins=yes          --verbose          --log-file=valgrind-out.txt          ./<executable> exampleParam1 # REPLACE <executable> with name of executable and 
+  535  y command line 
+  536  valgrind --leak-check=full          --show-leak-kinds=all          --track-origins=yes          --verbose          --log-file=valgrind-out.txt          ./mini_ci testcases/basic_add.s
+  537  valgrind --leak-check=full          --show-leak-kinds=all          --track-origins=yes          --verbose          --log-file=valgrind-out.txt          ./mini_ci testcases
+  538  valgrind --leak-check=full          --show-leak-kinds=all          --track-origins=yes          --verbose          --log-file=valgrind-out.txt          ./mini_ci
+  539  make clean
+  540  make check
+  541  history > shell_log.txt

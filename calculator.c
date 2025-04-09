@@ -13,14 +13,24 @@ int calculate_result(struct Reader *reader) {
         if (head->tok_type != TOK_NUM) {
             // this is an operation:
             struct Token *op = head;
-            struct Token *val_a = head->next;
-            if (!val_a) {
+            if (!head->next) {
                 reader->had_error = true;
+                free_token(&op);
+                return -1;
+            }
+            struct Token *val_a = head->next;
+            if (!val_a || !head->next->next) {
+                reader->had_error = true;
+                free_token(&val_a);
+                free_token(&op);
                 return -1;
             }
             struct Token *val_b = head->next->next;
             if (!val_b) {
                 reader->had_error = true;
+                free_token(&val_b);
+                free_token(&val_a);
+                free_token(&op);
                 return -1;
             }
             int new_val = 0;
@@ -45,10 +55,14 @@ int calculate_result(struct Reader *reader) {
                 default:
                     return -1;
             }
-            free_token(&val_b);
-            free_token(&val_a);
-            free_token(&op);
+            // free_token(&val_b);
+            // free_token(&val_a);
+            // free_token(&op);
             struct Token *new_token = malloc(sizeof(struct Token));
+            // if (!val_b->next) {
+            //     reader->had_error = true;
+            //     return -1;
+            // }
             new_token->next = val_b->next;
             new_token->tok_type = TOK_NUM;
             new_token->val = new_val;

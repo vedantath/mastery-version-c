@@ -1,0 +1,23 @@
+r testcases/basic_add.s
+bt
+p *new_token
+p new_token
+p new_token->next
+p *new_token->next
+p val_b
+p *val_b
+p *val_b->next
+p val_b->next
+q
+r testcases/basic_add.s
+b
+bt
+q
+r testcases/basic_add.s
+q
+r testcases/basic_add.s
+q
+r testcases/basic_add.s 
+q
+show commands
+q
